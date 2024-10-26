@@ -1,4 +1,4 @@
-# paginaecolformas
+# pagina_ecolformas
  
 Este proyecto es un sitio web estatico basado en la empresa ECOLFORMAS S.A.S, que es una empresa que se dedica a la venta y alquiler de formaletas metalicas, El objetivo del sitio es proporcionar información clara y organizada sobre sus productos y servicios.
 
